@@ -1,7 +1,5 @@
 parsonal
 RIMON10352AHMED
-pakistani
-10272
 munna
 =[10197]=
 robin
@@ -13,7 +11,3 @@ nepali
 =[10165]=
 nayem
 =[10138]=
-1time
-10414
-1 time
-=[10322]=
